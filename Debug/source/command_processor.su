@@ -1,0 +1,10 @@
+command_processor.c:23:12:allocate	32	static
+command_processor.c:34:12:verify	32	static
+command_processor.c:47:12:write	40	static
+command_processor.c:68:15:into_binary	40	static
+command_processor.c:76:12:display	56	static
+command_processor.c:103:12:compare	96	dynamic
+command_processor.c:135:12:invert	40	static
+command_processor.c:156:12:freeCommand	32	static
+command_processor.c:166:12:patternCommand	40	static
+command_processor.c:185:6:parser	40	static
